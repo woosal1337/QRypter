@@ -35,7 +35,7 @@ As QRypter is going to create custom QR codes for the given input of yours, all 
 ### What to come
 <ol type="I">
 	<li>
-		User-friendly UI
+		User-friendly GUI
 	</li>
 </ol>
 
